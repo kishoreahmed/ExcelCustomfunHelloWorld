@@ -1,0 +1,18 @@
+{
+    "functions": [
+        {
+            "description": "sayHello",
+            "id": "SAYHELLO",
+            "name": "SAYHELLO",
+            "parameters": [
+                {
+                    "name": "name",
+                    "type": "any"
+                }
+            ],
+            "result": {
+                "type": "number"
+            }
+        }
+    ]
+}
